@@ -1,0 +1,4 @@
+# David Ginzberg, shell project
+
+myshell: myshell.c 
+	gcc -Wall myshell.c -o MyShell
